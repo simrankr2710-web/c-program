@@ -1,6 +1,3 @@
-#include <stdio.h>
+C Programs
 
-int main() {
-    printf("Hello, GitHub!");
-    return 0;
-}
+My C programming practice.
